@@ -1,26 +1,26 @@
 # Hi, I'm Drinor Berisha
 
-I'm a data and software engineer based in Pristina, Kosovo. I build cloud data pipelines, backend APIs and software for operational workflows.
+I'm a software engineer based in Pristina, Kosovo. I build backend services, full-stack applications and data workflows, combining software development with hands-on data engineering experience.
 
-I work on a global payroll data platform, contributing country-specific services and data workflows to a platform supporting 20+ countries.
+I work on country-specific APIs and backend services for a global payroll data platform supporting 20+ countries. I'm also a co-founder of Pixellent Solutions, where I build custom software and workflow automation for businesses.
 
-I'm also a co-founder of Pixellent Solutions. I designed and deployed a real-estate CRM tracking **7 buildings and hundreds of units**, saving the client **20+ hours of sales administration per month**.
+## Selected work
 
-## What I work with
+**Real-estate CRM**
 
-- **Data and cloud:** Python, GCP, BigQuery, Apache Airflow, Cloud Run, Cloud Functions
-- **Backend and databases:** FastAPI, PostgreSQL
-- **Product development:** React, Vue.js
+I designed and deployed a CRM tracking **7 buildings and hundreds of units**, saving the client **20+ hours of sales administration per month**.
 
-## Selected public projects
+**Backend services and data workflows**
 
-| Project | Focus |
-|---|---|
-| [Avokati backend](https://github.com/drinorberisha/avokati-backend) | Python/FastAPI backend for legal-office workflows, with document retrieval and PostgreSQL migrations |
-| [Restaurant ordering system](https://github.com/drinorberisha/Restaurant-KOSOVA) | Next.js, Express and PostgreSQL application for ordering and administration |
-| [Jetson Stereo](https://github.com/drinorberisha/Jetson-Stereo) | Python/OpenCV camera calibration and stereo-vision project on Jetson Nano |
+My work includes Python APIs, cloud services and data workflows using GCP, BigQuery and Apache Airflow.
 
-These are selected public examples. My client and employer work is not all publicly available.
+Much of my recent software work is in private repositories. I describe selected work here without publishing confidential source code or client data.
+
+## Technologies I use
+
+- **Backend:** Python, FastAPI, PostgreSQL
+- **Full-stack development:** React, Vue.js
+- **Cloud and data:** GCP, Cloud Run, Cloud Functions, BigQuery, Apache Airflow
 
 ## Background
 
@@ -28,4 +28,4 @@ BSc Computer Science, Constructor University.
 
 Databricks Certified Data Engineer Associate · AWS Certified Cloud Practitioner · Astronomer Airflow 3 Fundamentals · dbt Fundamentals.
 
-I'm interested in remote data and platform engineering opportunities. You can reach me on [LinkedIn](https://www.linkedin.com/in/drinorberisha/).
+I'm interested in remote software engineering opportunities, especially backend and full-stack development. You can reach me on [LinkedIn](https://www.linkedin.com/in/drinorberisha/).
